@@ -1,4 +1,4 @@
 # demo
 This is my first repository
 <br>
-Author = "HARSH AGARAWAL"
+Author = "HARSH AGARAWAL(kRISHNA)"
